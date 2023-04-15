@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "EGwUgPoBmcTxjld7YvXl/vpPHXQdk/yPz+DQjjQcFm8=",
+  "Source": "Projeto_Web_Lh_Pets_versão_1",
+  "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web_Lh_Pets_versão_1\\wwwroot",
+      "Source": "Projeto_Web_Lh_Pets_versão_1",
+      "ContentRoot": "C:\\Users\\USUARIO\\Desktop\\Curso Back End\\Codificação para Back-End\\Atividade 2\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\USUARIO\\Desktop\\Curso Back End\\Codificação para Back-End\\Atividade 2\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web_Lh_Pets_versão_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Desktop\\Curso Back End\\Codificação para Back-End\\Atividade 2\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
